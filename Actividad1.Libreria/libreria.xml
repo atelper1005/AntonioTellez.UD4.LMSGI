@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE libreria SYSTEM "libreria.dtd">
+<libreria>
+    <libro>
+        <titulo></titulo>
+        <autor></autor>
+        <editorial></editorial>
+        <precio></precio>
+        <ISBN></ISBN>
+        <num_pags></num_pags>
+    </libro>
+</libreria>

@@ -1,0 +1,8 @@
+<!ELEMENT libreria (libro*)>
+<!ELEMENT libro (titulo, autor, editorial, precio, ISBN, num_pags)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT num_pags (#PCDATA)>

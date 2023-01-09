@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE libreria SYSTEM "libreria.dtd">
+<libreria>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editorial>Ediciones Tartessos</editorial>
+        <precio>5,90€</precio>
+        <ISBN>123651</ISBN>
+        <num_pags>569</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>Crónica de una muerte anunciada</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <editorial>La Oveja Negra</editorial>
+        <precio>7,90€</precio>
+        <ISBN>123652</ISBN>
+        <num_pags>358</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>Moby Dick</titulo>
+        <autor>Herman Melville</autor>
+        <editorial>Atalaya</editorial>
+        <precio>5,90€</precio>
+        <ISBN>123653</ISBN>
+        <num_pags>333</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>Los Pilares de la Tierra</titulo>
+        <autor>Ken Follett</autor>
+        <editorial>Avenauta</editorial>
+        <precio>7,90€</precio>
+        <ISBN>123654</ISBN>
+        <num_pags>789</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>El Código Da Vinci</titulo>
+        <autor>Dan Brown</autor>
+        <editorial>Umbriel Editoriales</editorial>
+        <precio>7,90€</precio>
+        <ISBN>123655</ISBN>
+        <num_pags>553</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>El Visitante</titulo>
+        <autor>Stephen King</autor>
+        <editorial>Plaza y Janés</editorial>
+        <precio>8,90€</precio>
+        <ISBN>123656</ISBN>
+        <num_pags>455</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>El Señor de los Anillos</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <editorial>Ediciones Minotauro</editorial>
+        <precio>10,90€</precio>
+        <ISBN>123657</ISBN>
+        <num_pags>876</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>Diario de Ana Frank</titulo>
+        <autor>Anne Frank</autor>
+        <editorial>Garbo</editorial>
+        <precio>6,90€</precio>
+        <ISBN>123658</ISBN>
+        <num_pags>246</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>Matar un ruiseñor</titulo>
+        <autor>Harper Lee</autor>
+        <editorial>Novoprint</editorial>
+        <precio>5,90€</precio>
+        <ISBN>123659</ISBN>
+        <num_pags>337</num_pags>
+    </libro>
+
+    <libro>
+        <titulo>Asesinato en el Orient Express</titulo>
+        <autor>Agatha Christie</autor>
+        <editorial>Collins Crime Club</editorial>
+        <precio>7,90€</precio>
+        <ISBN>123660</ISBN>
+        <num_pags>405</num_pags>
+    </libro>
+</libreria>
