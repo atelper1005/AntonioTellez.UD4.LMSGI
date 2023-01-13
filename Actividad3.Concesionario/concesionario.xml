@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="concesionario.xsd">
+<!-- DOCTYPE concesionario [<!ELEMENT concesionario (coche*)>
+<!ELEMENT coche (codigo_coche, marca, modelo, matricula, potencia_motor, plazas, num_puertas)>
+<!ELEMENT codigo_coche (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia_motor (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
+<!ELEMENT num_puertas (#PCDATA)>] -->
+    <coche>
+        <codigo_coche></codigo_coche>
+        <marca></marca>
+        <modelo></modelo>
+        <matricula></matricula>
+        <potencia_motor></potencia_motor>
+        <plazas>0</plazas>
+        <num_puertas>0</num_puertas>
+    </coche>
+</concesionario>
