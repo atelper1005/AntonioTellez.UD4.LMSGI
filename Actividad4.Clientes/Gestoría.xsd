@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+version="0.1" xml:lang="es">
+<xs:element name="Clientes" type="ClientesNDatos">
+    <xs:complexType name="ClientesNDatos">
+    <xs:sequence>
+    <xs:element name="sede" type="sedeNDatos" minOccurs="1" maxOccurs="unbounded">
+    <xs:complexType name="sedeNDatos">
+    <xs:sequence>
+        <xs:element name="codigo_cliente" type="xs:string"/>
+        <xs:element name="num_viviendas" type="xs:integer"/>
+        <xs:element name="costes" type="xs:decimal"/>
+        <xs:element name="resumen" type="xs:string"/>
+        <xs:element name="plazo" type="xs:dateTime"/>
+        <xs:element name="plazas" type="xs:integer"/>
+        <xs:element name="num_puertas" type="xs:integer"/>
+    </xs:sequence>
+    </xs:complexType>
+    </xs:element>
+    </xs:sequence>
+    </xs:complexType>
+</xs:element>
+</xs:schema>

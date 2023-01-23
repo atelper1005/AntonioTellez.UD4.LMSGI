@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE clientes SYSTEM "clientes.dtd">
+<clientes>
+    <sede codigo="123-asd">
+        <direccion></direccion>
+        <nombre_empleado></nombre_empleado>
+        <fecha></fecha>
+        <desc_cliente></desc_cliente>
+        <clienteNDatos codigo="123-asd">
+            <num_viviendas></num_viviendas>
+            <costes></costes>
+            <resumen></resumen>
+            <plazo></plazo>
+        </clienteNDatos>
+    </sede>
+</clientes>
