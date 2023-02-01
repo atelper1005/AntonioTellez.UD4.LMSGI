@@ -1,0 +1,11 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Clientes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Sede" minOccurs="1" maxOccurs="unbounded">
+
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
