@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE alumnado SYSTEM "Practicas.dtd">
+<alumnado>
+    <alumno>
+        <nif>12344567C</nif>
+        <resultado>Apto</resultado>
+        <observaciones>Matrícula de honor</observaciones>
+        <identificacion_red>
+            <IP>168.169.1.0</IP>
+            <MAC></MAC>
+        </identificacion_red>
+    </alumno>
+    <alumno>
+        <nif>98098742J</nif>
+        <resultado>No apto</resultado>
+        <observaciones>Tiene que recuperar 3 asignaturas</observaciones>
+        <identificacion_red>
+            <IP></IP>
+            <MAC>52:FE:48:CA:48:23</MAC>
+        </identificacion_red>
+    </alumno>
+</alumnado>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Modulo SYSTEM "Modulos.dtd">
+<Modulo>
+    <Nombre>Programacion</Nombre>
+    <Contenido>
+        <Bloque1>
+            <Titulo>Introducción a Java</Titulo>
+            <Descripcion>Unidades más básicas para construcción de código Java</Descripcion>
+        </Bloque1>
+        <Bloque2>
+            <Titulo>Método Main</Titulo>
+            <Descripcion>Punto en el que comienza la ejecución de una aplicación Java</Descripcion>
+        </Bloque2>
+        <Bloque3>
+            <Titulo>Clases y sus atributos</Titulo>
+            <Descripcion>Herencia y polimorfismo</Descripcion>
+        </Bloque3>
+        <Bloque4>
+            <Titulo>Arrays</Titulo>
+            <Descripcion>Comparar, eliminar, crear y recorrer</Descripcion>
+        </Bloque4>
+    </Contenido>
+</Modulo>

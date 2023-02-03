@@ -1,0 +1,9 @@
+<!ELEMENT Modulo (Nombre, Contenido*)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Contenido (Bloque1, Bloque2, Bloque3, Bloque4)>
+<!ELEMENT Bloque1 (Titulo, Descripcion)>
+<!ELEMENT Bloque2 (Titulo, Descripcion)>
+<!ELEMENT Bloque3 (Titulo, Descripcion)>
+<!ELEMENT Bloque4 (Titulo, Descripcion)>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>

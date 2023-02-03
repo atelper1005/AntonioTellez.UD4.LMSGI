@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Modulo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Modulos.xsd">
+       <Nombre>Programacion</Nombre>
+       <Contenidos>
+             <Bloque>
+                   <Titulo>Introducción a Java</Titulo>
+                   <Descripcion>Unidades más básicas para construcción de código Java</Descripcion>
+             </Bloque>
+             <Bloque>
+                   <Titulo>Método Main</Titulo>
+                   <Descripcion>Punto en el que comienza la ejecución de una aplicación Java</Descripcion>
+             </Bloque>
+             <Bloque>
+                   <Titulo>Clases y sus atributos</Titulo>
+                   <Descripcion>Herencia y polimorfismo</Descripcion>
+             </Bloque>
+             <Bloque>
+                   <Titulo>Arrays</Titulo>
+                   <Descripcion>Comparar, eliminar, crear y recorrer</Descripcion>
+             </Bloque>
+       </Contenidos>
+ </Modulo>
